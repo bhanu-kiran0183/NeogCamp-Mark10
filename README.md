@@ -9,4 +9,4 @@ Created app where we have bill amount and cash amount given by customer. Here we
 
 ## Live Project
 
-* [CashRegisterManagerApp](https://customercashresturn.netlify.app/)
+* [CashRegisterManagerApp](https://spiffy-douhua-8a83a9m10.netlify.app/)
